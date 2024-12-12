@@ -19,44 +19,6 @@
                     </ul>
                 </nav>
             </header>
-            <main>
-                <section id="introduction">
-                    <h2>Introduction</h2>
-                    <div class="image-container">
-                        <img src="C:\Users\5926003344\OneDrive - School Board of Seminole County\Junior Year\Pd. 1 - Foundations of Web Design\project\lincoln.png">
-                        <p>Introduction paragraph 1</p>
-                        <p>Introduction paragraph 2</p>
-                        <p>Introduction paragraph 3</p>
-                    </div>
-                </section>
-                <section id="early-life">
-                    <h2>Early Life</h2>
-                    <div class="image-container">
-                        <img src="C:\Users\5926003344\OneDrive - School Board of Seminole County\Junior Year\Pd. 1 - Foundations of Web Design\project\lincoln.png">
-                        <p>Early Life paragraph 1</p>
-                        <p>Early Life paragraph 2</p>
-                        <p>Early Life paragraph 3</p>
-                    </div>
-                </section>
-                <section id="career-accomplishments">
-                    <h2>Career Accomplishments</h2>
-                    <div class="image-container">
-                        <img src="C:\Users\5926003344\OneDrive - School Board of Seminole County\Junior Year\Pd. 1 - Foundations of Web Design\project\lincoln.png">
-                        <p>CA paragraph 1</p>
-                        <p>CA paragraph 2</p>
-                        <p>CA paragraph 3</p>
-                    </div>
-                </section>
-                <section id="personal-life">
-                    <h2>Personal Life</h2>
-                    <div class="image-container">
-                        <img src="C:\Users\5926003344\OneDrive - School Board of Seminole County\Junior Year\Pd. 1 - Foundations of Web Design\project\lincoln.png">
-                        <p>PL paragraph 1</p>
-                        <p>PL paragraph 2</p>
-                        <p>PL paragraph 3</p>
-                    </div>
-                </section>
-            </main>
         </body>
     </head>
 </html>

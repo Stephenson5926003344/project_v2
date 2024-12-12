@@ -12,6 +12,9 @@ nav { text-align: left;
    font-weight: bold; 
    padding: 1em;
 }
+p { text-align: left;
+    padding: 1em;
+ }
 nav a { text-decoration: none; 
 }
 footer { background-color: #9BC1C2;

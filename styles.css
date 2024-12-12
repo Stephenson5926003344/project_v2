@@ -1,8 +1,8 @@
-body { background-color: #3f2860;
-    color: #3F2860;
+body { background-color: #021059;
+    color: #021059;
     font-family: Verdana, Arial, sans-serif;
 }
-header { background-color: #9BC1C2;
+header { background-color: #ad1313;
 }
 h1 { padding-top: 50px;
      padding-left: 2em;
@@ -17,7 +17,7 @@ p { text-align: left;
  }
 nav a { text-decoration: none; 
 }
-footer { background-color: #9BC1C2;
+footer { background-color: #ad1313;
      font-size: small;
      font-style: italic;
      text-align: center;
@@ -32,5 +32,7 @@ main {
 img {
      padding-left:1em;
      padding-right:1em;
+     width:20%;
+     height:20%;
 }
      

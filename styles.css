@@ -3,19 +3,16 @@ body { background-color: #3f2860;
     font-family: Verdana, Arial, sans-serif;
 }
 header { background-color: #9BC1C2;
-    background-image: "lilyheader.jpg";
 }
 h1 { padding-top: 50px;
      padding-left: 2em;
 
 }
-nav { text-align: center;
+nav { text-align: left;
    font-weight: bold; 
    padding: 1em;
 }
 nav a { text-decoration: none; 
-}
-.studio { font-style: italic; 
 }
 footer { background-color: #9BC1C2;
      font-size: small;
